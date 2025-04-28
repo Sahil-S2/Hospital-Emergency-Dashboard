@@ -118,13 +118,6 @@ hospital-emergency-dashboard/
 ├── README.md                         # Project documentation
 ```
 
----
-
-## **Future Work**
-
-- Integrate real-time ER monitoring with IoT sensor data.
-- Add predictive modeling for patient wait times using machine learning.
-- Expand to cover outpatient departments (OPD) and ICU metrics.
 
 ---
 
