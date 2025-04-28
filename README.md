@@ -1,4 +1,4 @@
-![Hospital Emergency Dashboard Wallpaper](screenshots/dashboard_preview.png)
+![Hospital Emergency Dashboard Wallpaper](emergency_wallpaper.jpg)
 
 
 # 🏥 Welcome to the **Hospital Emergency Dashboard** Project!
